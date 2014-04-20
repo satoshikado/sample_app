@@ -1,0 +1,41 @@
+[33mcommit b4e71c650cefcd57c2b9aeb8a659299265a506a5[m
+Author: Satoshi Kado <kado@i-s-create.com>
+Date:   Thu Apr 17 10:50:42 2014 +0900
+
+    Add a full_title helper
+
+[33mcommit c4669e45b490661965c20bbb712683f107203be4[m
+Author: Satoshi Kado <kado@i-s-create.com>
+Date:   Tue Apr 15 22:16:02 2014 +0900
+
+    Finish static pages
+
+[33mcommit 7272c275c23b737202a04cc27b4f9dd03d8182ca[m
+Author: Satoshi Kado <kado@i-s-create.com>
+Date:   Mon Apr 14 21:30:26 2014 +0900
+
+    chapter 3.2.1
+
+[33mcommit b48218aad2f2542c3d7c6ae6511e9dbf89ca7dba[m
+Author: Satoshi Kado <kado@i-s-create.com>
+Date:   Mon Apr 14 21:15:12 2014 +0900
+
+    Add a StaticPages controller
+
+[33mcommit f28fa6135ddce9aa23e015e142bacf240952c2d3[m
+Author: Satoshi Kado <kado@i-s-create.com>
+Date:   Mon Apr 14 20:47:04 2014 +0900
+
+    no turbo
+
+[33mcommit a28c2742473748dfff934560724162beb73bcee6[m
+Author: Satoshi Kado <kado@i-s-create.com>
+Date:   Mon Apr 14 20:38:22 2014 +0900
+
+    Improve the README
+
+[33mcommit 141c42262e99585b1c9a74317d278c316b8805d0[m
+Author: Satoshi Kado <kado@i-s-create.com>
+Date:   Mon Apr 14 20:36:33 2014 +0900
+
+    Initial commit
